@@ -1,0 +1,64 @@
+C:\Users\Lab215-St9\Desktop\lectia66\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\Aplicatie1.csprojAssemblyReference.cache
+C:\Users\Lab215-St9\Desktop\lectia66\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Lab215-St9\Desktop\lectia66\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Lab215-St9\Desktop\lectia66\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\Aplicatie1_MarkupCompile.cache
+C:\Users\Lab215-St9\Desktop\lectia66\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\Aplicatie1_MarkupCompile.lref
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Aplicatie1.exe
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Aplicatie1.deps.json
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Aplicatie1.runtimeconfig.json
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Aplicatie1.runtimeconfig.dev.json
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Aplicatie1.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\ref\Aplicatie1.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Aplicatie1.pdb
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\Aplicatie1.csprojAssemblyReference.cache
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\Aplicatie1_MarkupCompile.cache
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\Aplicatie1_MarkupCompile.lref
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\Aplicatie1.g.resources
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\Aplicatie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\Aplicatie1.AssemblyInfoInputs.cache
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\Aplicatie1.AssemblyInfo.cs
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\Aplicatie1.csproj.CoreCompileInputs.cache
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\Aplicatie1.csproj.CopyComplete
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\Aplicatie1.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\ref\Aplicatie1.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\Aplicatie1.pdb
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\obj\Debug\net5.0-windows\Aplicatie1.genruntimeconfig.cache
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\radu0\OneDrive\Рабочий стол\Lectia6\Aplicatie1\bin\Debug\net5.0-windows\ServiceStack.Interfaces.dll

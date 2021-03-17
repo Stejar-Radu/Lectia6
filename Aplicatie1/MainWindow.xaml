@@ -1,0 +1,50 @@
+﻿<Window x:Class="Aplicatie1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aplicatie1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0"
+                    Margin="20">
+            <Label Content="Pasageri" HorizontalAlignment="Center"/>
+            <Button x:Name="btpasagerAdd" Content="+ Add"/>
+            <Button x:Name="btpasagerRemove" Content="- Remove"/>
+            <ScrollViewer>
+                <DataGrid ItemsSource="{Binding Pasageri}" AutoGenerateColumns="False">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Nume" Binding="{Binding Nume}"/>
+                        <DataGridTextColumn Header="Prenume" Binding="{Binding Prenume}"/>
+                        <DataGridTextColumn Header="Numar Telefon" Binding="{Binding NumarTelefon}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </ScrollViewer>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1"
+                    Margin="20">
+            <Label Content="Rute" HorizontalAlignment="Center"/>
+            <Button x:Name="btruteAdd" Content="+ Add"/>
+            <Button x:Name="btruteRemove" Content="- Remove"/>
+            <ScrollViewer>
+                <DataGrid ItemsSource="{Binding Rute}" AutoGenerateColumns="False">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Destinatia" Binding="{Binding Destinatia}"/>
+                        <DataGridTextColumn Header="Pret" Binding="{Binding Pret}"/>
+                        <DataGridTextColumn Header="Nume Pasager" Binding="{Binding Pasager.Nume}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </ScrollViewer>
+        </StackPanel>
+
+
+
+    </Grid>
+</Window>
